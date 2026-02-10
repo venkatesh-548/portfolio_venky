@@ -35,7 +35,7 @@ const Certifications = () => {
       title: 'Python Workshop',
       issuer: 'JNTU-GV IT Dept Workshop',
       year: 2025,
-      description: 'Advanced Python programming concepts',
+      description: 'Python programming concepts',
     },
   ]
 

@@ -9,13 +9,13 @@ const Education = () => {
   const educationData = [
     {
       level: 'M.Tech Data Science',
-      institution: 'JNTU-GV (Pursuing)',
+      institution: 'JNTU-GV University College of Engineering, Vizianagaram (Pursuing)',
       cgpa: '7.93',
       year: '2024-2026',
     },
     {
       level: 'B.Tech Computer Science',
-      institution: 'NVR Engineering College',
+      institution: 'NVR Engineering College, Tenali',
       cgpa: '7.09',
       year: '2019-2023',
     },
