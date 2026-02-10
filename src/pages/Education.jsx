@@ -21,13 +21,13 @@ const Education = () => {
     },
     {
       level: 'Class XII (Intermediate)',
-      institution: 'Junior College',
+      institution: 'Shree Sai Siddhartha Junior College, Gajapathinagaram',
       cgpa: '9.91',
       year: '2017-2019',
     },
     {
       level: 'Class X (Secondary)',
-      institution: 'School Board',
+      institution: 'Z P High School, Gadasam',
       cgpa: '9.3',
       year: '2016-2017',
     },
