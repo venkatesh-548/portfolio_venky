@@ -25,12 +25,12 @@ const Certifications = () => {
       year: 2023,
       description: 'Professional Django web development course',
     },
-    {
-      title: 'Machine Learning Workshop',
-      issuer: 'IEEE Conference',
-      year: 2024,
-      description: 'Hands-on ML algorithms and implementations',
-    },
+    // {
+    //   title: 'Machine Learning Workshop',
+    //   issuer: 'IEEE Conference',
+    //   year: 2024,
+    //   description: 'Hands-on ML algorithms and implementations',
+    // },
     {
       title: 'Python Workshop',
       issuer: 'JNTU-GV IT Dept Workshop',
